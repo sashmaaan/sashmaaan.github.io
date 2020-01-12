@@ -10,14 +10,10 @@ I love to cook, dive, develop, drive, create, think, hike, read, climb, ...
 
 ## Facts
 Worked with VB.net, VBA, C++, PHP, HTML, CSS, JavaScript, Microsoft SQL Server, PostgreSQL, MySQL, ...
-
 Expert in camos products
-
 7 years of experience in software architecture, design, development and test
-
 Language: german (native), english (fluent)
 
 ### Contact me
 Email:  [sascha.schmolz@googlemail.com](mailto:sascha.schmolz@googlemail.com)
-
 Tel:    +49 174 2846 425
