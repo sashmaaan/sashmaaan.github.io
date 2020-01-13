@@ -15,5 +15,5 @@ Expert in camos products
 Language: german (native), english (fluent)  
 
 ### Contact me
-Email:  [sascha.schmolz@googlemail.com](mailto:sascha.schmolz@googlemail.com)  
+Email:  [kontakt@sascha-schmolz.de](mailto:kontakt@sascha-schmolz.de)  
 Tel:    +49 174 2846 425
