@@ -18,12 +18,12 @@ avatar: #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/j
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: sascha.schmolz@googlemail.com
+  email: kontakt@sascha-schmolz.de
   facebook:
   flickr:
   github: sashmaaan
   instagram: quergeist
-  linkedin:
+  linkedin: sascha-schmolz
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://sashmaaan.github.io
+url: http://sascha-schmolz.de
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
