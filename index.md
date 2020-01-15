@@ -17,8 +17,8 @@ JavaScript, NodeJS, jQuery, HTML, CSS, XML/XPath, MongoDB, PostgreSQL, MySQL, C+
 Since i am traveling and working mostly remote, i am of course willing to learn new technologies, languages and frameworks, whatever the project needs.
 
 ### Curriculum Vitae
- - [CV german](/_docs/CV_ger.pdf)
- - [CV english](/_docs/CV_eng.pdf)
+ - [CV german]({{site.url}}/_docs/CV_ger.pdf)
+ - [CV english]({{site.url}}/_docs/CV_eng.pdf)
 
 ### Contact me
 Email:  [kontakt@sascha-schmolz.de](mailto:kontakt@sascha-schmolz.de)  
