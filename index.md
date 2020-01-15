@@ -3,15 +3,18 @@ layout: page
 title: About
 ---
 
-Born in 1988, grown up in Tuttlingen, studied Software-Engineering at the great Lake Constance, worked for more than four years as a Software Developer / IT-Consultant, always loved to travel the world and experience new things and sports, and now working as a self employed software developer, always interested to hear about new ideas and projects.
+Born in 1988, grown up in Tuttlingen, Germany. I studied Software-Engineering at the great Lake Constance, worked for more than six years as a Software Developer / IT-Consultant, always loved to travel the world and experience new things and sports, and now working as a self employed software developer, always interested to hear about new ideas and projects.
 
-I love to cook, dive, develop, drive, create, think, hike, read, climb, ...
+### Facts
+My skill set is based on my last employments, that means i am most experienced in 
+- writing VB.Net applications with DevExpress user interfaces 
+- all the camos products (camos Configurator, camos Quotation, camos Develop, ...)
+- Microsoft SQL Server
 
-## Facts
-Worked with VB.net, VBA, C++, PHP, HTML, CSS, JavaScript, Microsoft SQL Server, PostgreSQL, MySQL, ...  
-Expert in camos products  
-7 years of experience in software architecture, design, development and test  
-Language: german (native), english (fluent)  
+Other technologies i already used before:
+JavaScript, NodeJS, jQuery, HTML, CSS, XML/XPath, MongoDB, PostgreSQL, MySQL, C++, Qt Framework, Java, Access VBA
+
+Since i am traveling and working mostly remote, i am of course willing to learn new technologies, languages and frameworks, whatever the project needs.
 
 ### Contact me
 Email:  [kontakt@sascha-schmolz.de](mailto:kontakt@sascha-schmolz.de)  
