@@ -18,7 +18,7 @@ Since i am traveling and working mostly remote, i am of course willing to learn 
 
 ### Curriculum Vitae
  - [CV german](/_docs/CV_ger.pdf)
- - CV english(/_docs/CV_gengpdf)
+ - [CV english](/_docs/CV_eng.pdf)
 
 ### Contact me
 Email:  [kontakt@sascha-schmolz.de](mailto:kontakt@sascha-schmolz.de)  
