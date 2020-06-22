@@ -10,11 +10,11 @@
     <!--  Fonts and icons  -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
     
-    <link rel="icon" type="image/png" href="assets/img/favicon.png" sizes="96x96">
-    <base href="https://sascha-schmolz.de">
+    <link rel="icon" type="image/png" href="assets/img/Sascha6Logo ohne.png" sizes="96x96">
+    <!-- <base href="https://sascha-schmolz.de"> -->
 
     <!-- Material Kit CSS -->
-    <link href="assets/css/material-kit.min.css" rel="stylesheet" />
+    <link href="assets/css/material-kit.css" rel="stylesheet" />
 </head>
 <body data-spy="scroll" data-target="#navbar-list" data-offset="-50">
 
@@ -22,7 +22,8 @@
     <div class="container">
       <div class="navbar-translate">
         <a class="navbar-brand" href="https://sascha-schmolz.de/">
-          <div class="h2 my-0" style="line-height: 1em;">Sascha Schmolz</div>
+          <div class="logo"></div>
+          <div class="title h2 my-0 pl-2" style="line-height: 1em;">Sascha Schmolz</div>
         </a>
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,7 +34,7 @@
         </button>
       </div>
 
-      <div  class="collapse navbar-collapse">
+      <div class="collapse navbar-collapse">
           <ul id="navbar-list" class="navbar-nav ml-auto">
             <li class="nav-item">
               <a href="#hallo" class="nav-link">
@@ -77,7 +78,8 @@
     </div>
   </section>
 
-  <section id="was">
+  <section class="abschnitt">
+    <span id="was" class="anchor"></span>
     <div class="main main-raised" >
       <div class="container">
         <div class="section">
@@ -197,11 +199,11 @@
           </div>
         </div>
       </div>
-      <div class="anchor" id="wer" style="height: 1px;"></div>
     </div>
   </section>
 
-  <section id="wer" class="">
+  <section class="abschnitt">
+    <span id="wer" class="anchor"></span>
     <div class="bg-gradient-secondary">
 
       <div class="main main-raised">
@@ -289,7 +291,7 @@
     </div>
   </section>
 
-  <section id="wie" class="bg-secondary">
+  <section id="wie" class="abschnitt bg-secondary">
 
     <div class="bg-contact">
       <div class="container">
@@ -332,14 +334,13 @@
   <footer class="footer footer-default" >
     <div class="container-fluid">
       <div class="copyright float-left">
-        <a href="https://www.sascha-schmolz.de/impressum" target="blank">Impressum</a>
+        <a href="https://www.sascha-schmolz.de/impressum">Impressum</a>
     </div>
       <div class="copyright float-right">
           &copy;
           <script>
               document.write(new Date().getFullYear())
-          </script>, made with <i class="material-icons" style="color: rgb(223, 64, 72);">favorite</i> by
-          <a href="https://www.sascha-schmolz.de/" target="blank">Sascha Schmolz</a>
+          </script>, made with <i class="material-icons" style="color: rgb(223, 64, 72);">favorite</i> by <a href="https://www.sascha-schmolz.de/">Sascha Schmolz</a>
       </div>
     </div>
   </footer>
