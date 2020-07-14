@@ -1,0 +1,20 @@
+{
+  "name": "sascha-schmolz.de",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashmaaan/sashmaaan.github.io.git"
+  },
+  "keywords": [],
+  "author": "Sascha Schmolz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashmaaan/sashmaaan.github.io/issues"
+  },
+  "homepage": "http://www.sascha-schmolz.de"
+}

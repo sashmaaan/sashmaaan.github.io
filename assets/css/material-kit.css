@@ -4380,9 +4380,12 @@ tbody.collapse.show {
 .logo {
   height: 60px;
   width: 60px;
-  background: url('../img/Sascha4Logo.svg') transparent;
   background-repeat: no-repeat;
+  background: url('../img/logo_black.svg') transparent;
   background-size: auto;
+}
+.navbar-transparent .logo {
+  background: url('../img/logo_white_blackface.svg') transparent;
 }
 
 .navbar-nav {
@@ -15004,7 +15007,7 @@ textarea {
 .navbar.navbar-transparent {
   background-color: transparent !important;
   box-shadow: none;
-  padding-top: 25px;
+  /* padding-top: 25px; */
   color: #ffffff;
 }
 
