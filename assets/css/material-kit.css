@@ -4378,14 +4378,11 @@ tbody.collapse.show {
 }
 
 .logo {
-  height: 60px;
-  width: 60px;
+  height: 70px;
+  width: 70px;
   background-repeat: no-repeat;
-  background: url('../img/logo_black.svg') transparent;
-  background-size: auto;
-}
-.navbar-transparent .logo {
-  background: url('../img/logo_white_blackface.svg') transparent;
+  background: center url('../img/logo_black.svg') white;
+  background-size: 80%;
 }
 
 .navbar-nav {
