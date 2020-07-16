@@ -4380,9 +4380,9 @@ tbody.collapse.show {
 .logo {
   height: 70px;
   width: 70px;
-  background-repeat: no-repeat;
-  background: center url('../img/logo_black.svg') white;
+  background: no-repeat center url('../img/logo_black.svg') white;
   background-size: 80%;
+  border-radius: 50%;
 }
 
 .navbar-nav {
