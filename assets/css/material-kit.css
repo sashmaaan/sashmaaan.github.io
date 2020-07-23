@@ -4348,7 +4348,7 @@ tbody.collapse.show {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  padding: 0.5rem 1rem;
+  padding: 0rem 1rem;
 }
 
 .navbar>.container,
@@ -4383,6 +4383,7 @@ tbody.collapse.show {
   background: no-repeat center url('../img/logo_black.svg') white;
   background-size: 80%;
   border-radius: 50%;
+  margin-left: 15px;
 }
 
 .navbar-nav {
@@ -4505,7 +4506,7 @@ tbody.collapse.show {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 991px) {
   .navbar-expand-md {
     flex-flow: row nowrap;
     justify-content: flex-start;
@@ -11729,7 +11730,7 @@ a .material-icons {
 }
 
 .main {
-  background: #F9FBF9;
+  background: #eaecea;
   position: relative;
   z-index: 3;
   color: #000000;
@@ -11939,12 +11940,6 @@ label {
 
 .tim-white-buttons {
   background-color: #777777;
-}
-
-.title {
-  /* margin-top: 30px; */
-  margin-bottom: 25px;
-  min-height: 32px;
 }
 
 #map {
@@ -14753,7 +14748,7 @@ textarea {
 .navbar {
   border: 0;
   border-radius: 3px;
-  padding: 0.625rem 0;
+  padding: 0.125rem 0;
   margin-bottom: 20px;
   color: #555;
   background-color: #ffffff !important;
@@ -14849,6 +14844,7 @@ textarea {
 
 .navbar .navbar-toggler {
   cursor: pointer;
+  margin-right: 15px;
 }
 
 .navbar .navbar-toggler .navbar-toggler-icon {
@@ -15576,7 +15572,7 @@ small,
 .footer-big h4 a,
 .media .media-heading,
 .media .media-heading a {
-  color: #000000;
+  color: #313131;
   text-decoration: none;
 }
 
@@ -19409,4 +19405,28 @@ footer .pull-center {
     bottom: 0;
     background: rgba(0, 0, 0, 0.5);
   }
+}
+
+.title {
+  margin-top: 10px;
+  margin-bottom: 25px;
+  min-height: 32px;
+}
+
+.subtitle {
+  margin-top: 0px;
+  font-size: .8em;
+  margin-bottom: 15px;
+}
+
+
+@media (max-width: 450px) {
+  .logo {
+    margin-left: 0px;
+  }
+  .navbar .navbar-toggler {
+    margin-right: 0px;
+    z-index: 1040;
+  }
+
 }
