@@ -12280,7 +12280,6 @@ fieldset[disabled] .form-group.is-focused .form-check .form-check-label {
   vertical-align: middle;
   position: relative;
   top: -2px;
-  float: left;
   padding-right: 10px;
   display: inline-block;
 }
@@ -12617,7 +12616,6 @@ fieldset[disabled] .form-group.is-focused .form-check .form-check-label {
   vertical-align: middle;
   position: relative;
   top: -2px;
-  float: left;
   padding-right: 10px;
   display: inline-block;
 }
@@ -14851,7 +14849,6 @@ textarea {
   position: relative;
   width: 22px;
   height: 2px;
-  vertical-align: middle;
   outline: 0;
   display: block;
   border-radius: 1px;
