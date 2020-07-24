@@ -6,7 +6,8 @@
   "scripts": {
     "cssminify": "css-minify -f ./assets/css/material-kit.css",
     "cp": "@powershell copy './css-dist/*' './assets/css'",
-    "deploy": "npm run cssminify && npm run cp && git add . && git commit -m 'changed' && git push origin master"
+    "git": "git add . && git commit -m 'changed' && git push origin master",
+    "deploy": "npm run cssminify && npm run cp && npm run git"
   },
   "repository": {
     "type": "git",

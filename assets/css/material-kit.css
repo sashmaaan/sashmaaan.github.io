@@ -14843,6 +14843,7 @@ textarea {
 .navbar .navbar-toggler {
   cursor: pointer;
   margin-right: 15px;
+  z-index: 1040;
 }
 
 .navbar .navbar-toggler .navbar-toggler-icon {
@@ -19423,7 +19424,6 @@ footer .pull-center {
   }
   .navbar .navbar-toggler {
     margin-right: 0px;
-    z-index: 1040;
   }
 
 }
