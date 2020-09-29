@@ -18628,11 +18628,11 @@ footer .pull-center {
   }
 
   .nav-open .navbar-collapse {
-    -webkit-transform: translate3d(0px, 0, 0);
-    -moz-transform: translate3d(0px, 0, 0);
-    -o-transform: translate3d(0px, 0, 0);
-    -ms-transform: translate3d(0px, 0, 0);
-    transform: translate3d(0px, 0, 0);
+    -webkit-transform: translate3d(calc(100vw - 300px), 0, 0);
+    -moz-transform: translate3d(calc(100vw - 300px), 0, 0);
+    -o-transform: translate3d(calc(100vw - 300px), 0, 0);
+    -ms-transform: translate3d(calc(100vw - 300px), 0, 0);
+    transform: translate3d(calc(100vw - 300px), 0, 0);
   }
 
   .nav-open .navbar-translate {
